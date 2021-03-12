@@ -1,9 +1,14 @@
 <!--My first project.-->
 <html>
 <html lang="en">
-  <head>kkclong</head>
+  <head>
+    <title>kkclong</title>
+  </head>
   <body>
-    <h1>Hello World</h1>
+    <hgroup>
+      <h1>Hello World</h1>
+      <h2>Hello World</h2>
+    </hgroup>
   <p>What's up?</p>
     <p>
       - Answer1</br>
