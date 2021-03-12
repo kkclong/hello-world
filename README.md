@@ -1,9 +1,6 @@
 <!--My first project.-->
 <html>
 <html lang="en">
-  <head>
-    <title>kkclong</title>
-  </head>
   <body>
     <hgroup>
       <h1>Hello World</h1>
