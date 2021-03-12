@@ -7,9 +7,8 @@
   <body>
     <hgroup>
       <h1>Hello World</h1>
-      <h2>Hello World</h2>
+      <h4>What's up?/h2>
     </hgroup>
-  <p>What's up?</p>
     <p>
       - Answer1</br>
       - Answer2</br>
